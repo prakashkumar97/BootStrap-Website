@@ -1,0 +1,20 @@
+.item
+{
+    border: 1px solid rgb(206, 245, 65);
+    background-color: white;
+    height: 270px;
+    width: 70px;
+    border-radius: 35px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    box-shadow: 1px 1px white; 
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 5ms;
+   
+} 
+.row-m-t{
+    margin-top : 20px
+  }
